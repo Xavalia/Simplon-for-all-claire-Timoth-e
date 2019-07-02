@@ -1,0 +1,39 @@
+.ok {
+	color:red;
+}
+.logo2 {
+
+height: 3em;
+width:3em;
+
+}
+.all
+{
+	color:red;
+}
+
+h2 {
+  text-align: center;
+  color: rgb(241, 0, 54);
+  text-transform: uppercase;
+}
+
+#infobulle1 p {
+  background: url(images/polygone_identite.svg) no-repeat;
+  background-size: 100px 100px;
+
+}
+
+/* Responsive Styling */
+
+@media (max-width: 1199px)
+{
+}
+
+@media (max-width: 991px)
+{
+}
+
+@media (max-width: 767px)
+{
+}
